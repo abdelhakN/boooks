@@ -5,7 +5,7 @@
         "title": "48 Laws of Power",
         "author": "Robert Greene",
         "category": "Self-help",
-        "image": "/assets/books/48LawsOfPower.png",
+        "image": "@/assets/books/48LawsOfPower.png",
         "price": 20
       },
       {
@@ -13,7 +13,7 @@
         "title": "The Hobbit",
         "author": "J.R.R. Tolkien",
         "category": "Fantasy",
-        "image": "../assets/books/TheHobbit.png",
+        "image": "@/assets/books/TheHobbit.png",
         "price": 35
       },
       {
@@ -21,7 +21,7 @@
         "title": "Dune",
         "author": "Frank Herbert",
         "category": "Science Fiction",
-        "image": "../assets/books/Dune.png",
+        "image": "@/assets/books/Dune.png",
         "price": 14.99
       },
       {
@@ -29,7 +29,7 @@
         "title": "Game of Thrones",
         "author": "George R.R. Martin",
         "category": "Fantasy",
-        "image": "../assets/books/GameOfThrones.png",
+        "image": "@/assets/books/GameOfThrones.png",
         "price": 25
       },
       {
@@ -37,7 +37,7 @@
         "title": "The Martian",
         "author": "Andy Weir",
         "category": "Science Fiction",
-        "image": "../assets/books/TheMartian.png",
+        "image": "@/assets/books/TheMartian.png",
         "price": 40
       },
       {
@@ -45,7 +45,7 @@
         "title": "The Prince",
         "author": "Niccolò Machiavelli",
         "category": "Philosophy",
-        "image": "../assets/books/ThePrince.png",
+        "image": "@/assets/books/ThePrince.png",
         "price": 22
       }
     ]
