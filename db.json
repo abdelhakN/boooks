@@ -1,54 +1,52 @@
 {
-  "books": [
-    {
-      "id": 1,
-      "title": "48 Laws of Power",
-      "author": "Robert Greene",
-      "category": "Self-help",
-      "image": "@/assets/books/48LawsOfPower.png",
-      "price": 15.99
-    },
-    {
-      "id": 2,
-      "title": "The Hobbit",
-      "author": "J.R.R. Tolkien",
-      "category": "Fantasy",
-      "image": "/assets/books/TheHobbit.png",
-      "price": 12.49
-    },
-    {
-      "id": 3,
-      "title": "Dune",
-      "author": "Frank Herbert",
-      "category": "Science Fiction",
-      "image": "/assets/books/Dune.png",
-      "price": 14.99
-    },
-    {
-      "id": 4,
-      "title": "Game of Thrones",
-      "author": "George R.R. Martin",
-      "category": "Fantasy",
-      "image": "/assets/books/GameOfThrones.png",
-      "price": 16.99
-    },
-    {
-      "id": 5,
-      "title": "The Martian",
-      "author": "Andy Weir",
-      "category": "Science Fiction",
-      "image": "/assets/books/TheMartian.png",
-      "price": 13.99
-    },
-    {
-      "id": 6,
-      "title": "The Prince",
-      "author": "Niccolò Machiavelli",
-      "category": "Philosophy",
-      "image": "/assets/books/ThePrince.png",
-      "price": 10.99
-    }
-  ]
-}
-
-  
+    "books": [
+      {
+        "id": 1,
+        "title": "48 Laws of Power",
+        "author": "Robert Greene",
+        "category": "Self-help",
+        "image": "/assets/books/48LawsOfPower.png",
+        "price": 20
+      },
+      {
+        "id": 2,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "category": "Fantasy",
+        "image": "../assets/books/TheHobbit.png",
+        "price": 35
+      },
+      {
+        "id": 3,
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "category": "Science Fiction",
+        "image": "../assets/books/Dune.png",
+        "price": 14.99
+      },
+      {
+        "id": 4,
+        "title": "Game of Thrones",
+        "author": "George R.R. Martin",
+        "category": "Fantasy",
+        "image": "../assets/books/GameOfThrones.png",
+        "price": 25
+      },
+      {
+        "id": 5,
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "category": "Science Fiction",
+        "image": "../assets/books/TheMartian.png",
+        "price": 40
+      },
+      {
+        "id": 6,
+        "title": "The Prince",
+        "author": "Niccolò Machiavelli",
+        "category": "Philosophy",
+        "image": "../assets/books/ThePrince.png",
+        "price": 22
+      }
+    ]
+  }
